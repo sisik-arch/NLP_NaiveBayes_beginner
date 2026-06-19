@@ -1,0 +1,501 @@
+review_id,customer_age,city,product,category,platform,rating,verified_purchase,review_text,sentiment
+1,19,Delhi,Phone,Electronics,Flipkart,3,Yes,received the product yesterday,Neutral
+2,23,Hyderabad,Smartwatch,Electronics,Amazon,3,Yes,purchased during a sale event,Neutral
+3,53,Mumbai,Tablet,Wearables,Retail Store,4,Yes,absolutely love this product!!!!!!,Positive
+4,18,Mumbai,Tablet,Accessories,Myntra,2,No,VeRy-----frustrated with the purchase,Negative
+5,24,Pune,Smartwatch,Electronics,Myntra,5,No,absolutely love this product!!!!!!,Positive
+6,20,Bangalore,Camera,Electronics,Retail Store,3,Yes,delivery_was_on_TIME,Neutral
+7,58,Hyderabad,Headphones,Wearables,Flipkart,3,Yes,delivery_was_on_TIME,Neutral
+8,23,Mumbai,Laptop,Accessories,Myntra,5,No,absolutely love this product!!!!!!,Positive
+9,28,Delhi,Headphones,Electronics,Myntra,3,Yes,delivery_was_on_TIME,Neutral
+10,52,Mumbai,Phone,Accessories,Retail Store,3,No,using it for daily!! tasks,Neutral
+11,32,Delhi,Laptop,Electronics,Amazon,3,No,purchased during a sale event,Neutral
+12,31,Hyderabad,Tablet,Accessories,Flipkart,1,No,terrible experience with this product,Negative
+13,34,Mumbai,Phone,Wearables,Myntra,1,No,not worth the money,Negative
+14,41,Mumbai,Phone,Wearables,Retail Store,3,Yes,product matches the description,Neutral
+15,58,Mumbai,Tablet,Accessories,Amazon,4,No,excellent quality and FAST delivery,Positive
+16,51,Delhi,Camera,Electronics,Amazon,2,No,VeRy-----frustrated with the purchase,Negative
+17,25,Delhi,Smartwatch,Electronics,Retail Store,3,Yes,delivery_was_on_TIME,Neutral
+18,50,Mumbai,Camera,Electronics,Myntra,3,Yes,delivery_was_on_TIME,Neutral
+19,52,Hyderabad,Laptop,Wearables,Myntra,4,No,works perfectly and exceeded expectations,Positive
+20,37,Mumbai,Laptop,Electronics,Amazon,5,Yes,excellent quality and FAST delivery,Positive
+21,22,Hyderabad,Phone,Electronics,Retail Store,3,Yes,product matches the description,Neutral
+22,31,Hyderabad,Tablet,Wearables,Flipkart,2,No,VeRy-----frustrated with the purchase,Negative
+23,51,Bangalore,Laptop,Electronics,Flipkart,2,Yes,terrible experience with this product,Negative
+24,55,Mumbai,Laptop,Electronics,Amazon,1,Yes,poor quality and------ disappointing performance,Negative
+25,22,Hyderabad,Phone,Accessories,Retail Store,5,Yes,excellent quality and FAST delivery,Positive
+26,64,Hyderabad,Camera,Accessories,Flipkart,3,No,using it for daily!! tasks,Neutral
+27,24,Bangalore,Headphones,Accessories,Retail Store,1,No,stopped WORKING after a week,Negative
+28,61,Pune,Laptop,Accessories,Myntra,3,Yes,received the product yesterday,Neutral
+29,52,Bangalore,Phone,Accessories,Flipkart,4,No,absolutely love this product!!!!!!,Positive
+30,46,Hyderabad,Laptop,Electronics,Amazon,1,Yes,stopped WORKING after a week,Negative
+31,49,Bangalore,Phone,Accessories,Amazon,5,Yes,absolutely love this product!!!!!!,Positive
+32,34,Bangalore,Headphones,Accessories,Retail Store,2,Yes,poor quality and------ disappointing performance,Negative
+33,21,Hyderabad,Tablet,Wearables,Amazon,4,No,works perfectly and exceeded expectations,Positive
+34,50,Hyderabad,Phone,Electronics,Amazon,5,Yes,excellent quality and FAST delivery,Positive
+35,61,Mumbai,Smartwatch,Electronics,Flipkart,4,Yes,amazing experience and highly recommended,Positive
+36,44,Hyderabad,Camera,Wearables,Myntra,3,No,received the product yesterday,Neutral
+37,34,Bangalore,Phone,Wearables,Myntra,4,No,works perfectly and exceeded expectations,Positive
+38,47,Hyderabad,Camera,Electronics,Amazon,1,Yes,poor quality and------ disappointing performance,Negative
+39,26,Delhi,Laptop,Electronics,Myntra,3,No,delivery_was_on_TIME,Neutral
+40,57,Hyderabad,Laptop,Wearables,Myntra,5,Yes,great value for money,Positive
+41,24,Hyderabad,Phone,Accessories,Myntra,4,Yes,works perfectly and exceeded expectations,Positive
+42,31,Delhi,Camera,Accessories,Myntra,3,Yes,delivery_was_on_TIME,Neutral
+43,20,Pune,Headphones,Electronics,Myntra,5,Yes,great value for money,Positive
+44,53,Bangalore,Camera,Electronics,Amazon,3,Yes,product matches the description,Neutral
+45,52,Pune,Headphones,Wearables,Flipkart,3,No,using it for daily!! tasks,Neutral
+46,41,Pune,Headphones,Electronics,Flipkart,5,Yes,excellent quality and FAST delivery,Positive
+47,57,Mumbai,Phone,Electronics,Flipkart,2,No,VeRy-----frustrated with the purchase,Negative
+48,44,Mumbai,Headphones,Electronics,Amazon,5,No,absolutely love this product!!!!!!,Positive
+49,30,Bangalore,Headphones,Accessories,Flipkart,4,Yes,great value for money,Positive
+50,39,Delhi,Laptop,Accessories,Myntra,5,No,absolutely love this product!!!!!!,Positive
+51,39,Pune,Laptop,Accessories,Flipkart,3,No,purchased during a sale event,Neutral
+52,40,Delhi,Smartwatch,Wearables,Amazon,5,No,excellent quality and FAST delivery,Positive
+53,34,Pune,Tablet,Accessories,Amazon,3,Yes,using it for daily!! tasks,Neutral
+54,60,Delhi,Camera,Accessories,Amazon,1,No,not worth the money,Negative
+55,60,Bangalore,Headphones,Accessories,Myntra,3,Yes,delivery_was_on_TIME,Neutral
+56,61,Mumbai,Camera,Wearables,Myntra,5,No,great value for money,Positive
+57,37,Delhi,Phone,Accessories,Myntra,3,No,received the product yesterday,Neutral
+58,50,Bangalore,Tablet,Electronics,Amazon,1,No,not worth the money,Negative
+59,39,Pune,Phone,Wearables,Myntra,3,Yes,purchased during a sale event,Neutral
+60,20,Mumbai,Smartwatch,Wearables,Amazon,4,No,absolutely love this product!!!!!!,Positive
+61,63,Bangalore,Smartwatch,Accessories,Flipkart,1,Yes,VeRy-----frustrated with the purchase,Negative
+62,24,Bangalore,Phone,Electronics,Retail Store,3,Yes,received the product yesterday,Neutral
+63,25,Bangalore,Phone,Accessories,Myntra,3,No,using it for daily!! tasks,Neutral
+64,45,Hyderabad,Smartwatch,Electronics,Retail Store,3,No,purchased during a sale event,Neutral
+65,51,Bangalore,Tablet,Electronics,Myntra,2,No,stopped WORKING after a week,Negative
+66,35,Delhi,Headphones,Wearables,Amazon,4,Yes,works perfectly and exceeded expectations,Positive
+67,62,Mumbai,Tablet,Electronics,Amazon,5,No,absolutely love this product!!!!!!,Positive
+68,44,Pune,Phone,Accessories,Retail Store,2,Yes,terrible experience with this product,Negative
+69,48,Pune,Headphones,Accessories,Retail Store,3,No,product matches the description,Neutral
+70,56,Mumbai,Smartwatch,Electronics,Myntra,3,No,purchased during a sale event,Neutral
+71,39,Bangalore,Tablet,Electronics,Retail Store,2,Yes,poor quality and------ disappointing performance,Negative
+72,19,Bangalore,Camera,Wearables,Amazon,3,Yes,purchased during a sale event,Neutral
+73,26,Bangalore,Phone,Electronics,Myntra,3,No,product matches the description,Neutral
+74,38,Delhi,Smartwatch,Accessories,Retail Store,2,No,stopped WORKING after a week,Negative
+75,65,Hyderabad,Laptop,Accessories,Flipkart,4,Yes,great value for money,Positive
+76,19,Mumbai,Phone,Electronics,Flipkart,3,Yes,received the product yesterday,Neutral
+77,54,Mumbai,Smartwatch,Wearables,Myntra,4,No,great value for money,Positive
+78,28,Delhi,Laptop,Wearables,Amazon,4,No,amazing experience and highly recommended,Positive
+79,43,Mumbai,Laptop,Wearables,Flipkart,3,Yes,product matches the description,Neutral
+80,61,Hyderabad,Laptop,Wearables,Amazon,3,No,delivery_was_on_TIME,Neutral
+81,60,Delhi,Laptop,Wearables,Myntra,3,Yes,product matches the description,Neutral
+82,45,Delhi,Tablet,Accessories,Flipkart,1,No,not worth the money,Negative
+83,57,Hyderabad,Smartwatch,Accessories,Retail Store,5,No,amazing experience and highly recommended,Positive
+84,35,Bangalore,Phone,Accessories,Retail Store,1,No,stopped WORKING after a week,Negative
+85,29,Bangalore,Phone,Accessories,Myntra,5,No,great value for money,Positive
+86,53,Pune,Camera,Electronics,Amazon,2,Yes,VeRy-----frustrated with the purchase,Negative
+87,49,Hyderabad,Phone,Wearables,Retail Store,3,No,product matches the description,Neutral
+88,36,Mumbai,Smartwatch,Wearables,Flipkart,1,No,poor quality and------ disappointing performance,Negative
+89,41,Bangalore,Camera,Wearables,Myntra,3,No,purchased during a sale event,Neutral
+90,39,Delhi,Tablet,Accessories,Myntra,3,No,purchased during a sale event,Neutral
+91,64,Mumbai,Headphones,Electronics,Flipkart,1,Yes,stopped WORKING after a week,Negative
+92,64,Hyderabad,Camera,Wearables,Myntra,5,Yes,great value for money,Positive
+93,41,Mumbai,Headphones,Electronics,Flipkart,4,No,works perfectly and exceeded expectations,Positive
+94,62,Mumbai,Tablet,Accessories,Amazon,5,Yes,excellent quality and FAST delivery,Positive
+95,48,Bangalore,Smartwatch,Accessories,Flipkart,3,Yes,delivery_was_on_TIME,Neutral
+96,22,Bangalore,Smartwatch,Electronics,Amazon,1,Yes,not worth the money,Negative
+97,23,Mumbai,Laptop,Wearables,Retail Store,5,Yes,amazing experience and highly recommended,Positive
+98,46,Bangalore,Headphones,Wearables,Retail Store,3,No,product matches the description,Neutral
+99,21,Hyderabad,Tablet,Electronics,Flipkart,3,Yes,purchased during a sale event,Neutral
+100,33,Mumbai,Camera,Electronics,Flipkart,1,Yes,poor quality and------ disappointing performance,Negative
+101,36,Pune,Phone,Accessories,Myntra,2,No,not worth the money,Negative
+102,58,Hyderabad,Tablet,Electronics,Retail Store,5,Yes,absolutely love this product!!!!!!,Positive
+103,59,Mumbai,Headphones,Electronics,Amazon,3,Yes,using it for daily!! tasks,Neutral
+104,46,Pune,Smartwatch,Wearables,Myntra,5,No,works perfectly and exceeded expectations,Positive
+105,46,Pune,Camera,Electronics,Retail Store,2,No,VeRy-----frustrated with the purchase,Negative
+106,19,Pune,Phone,Wearables,Amazon,3,No,delivery_was_on_TIME,Neutral
+107,29,Bangalore,Camera,Wearables,Retail Store,3,No,received the product yesterday,Neutral
+108,58,Bangalore,Laptop,Accessories,Myntra,5,No,amazing experience and highly recommended,Positive
+109,28,Delhi,Smartwatch,Wearables,Retail Store,1,No,terrible experience with this product,Negative
+110,53,Pune,Smartwatch,Electronics,Myntra,3,No,product matches the description,Neutral
+111,50,Pune,Tablet,Wearables,Retail Store,2,No,poor quality and------ disappointing performance,Negative
+112,57,Bangalore,Tablet,Accessories,Amazon,5,Yes,absolutely love this product!!!!!!,Positive
+113,36,Bangalore,Tablet,Accessories,Amazon,1,Yes,VeRy-----frustrated with the purchase,Negative
+114,33,Mumbai,Headphones,Wearables,Amazon,3,No,purchased during a sale event,Neutral
+115,47,Pune,Tablet,Electronics,Retail Store,4,No,absolutely love this product!!!!!!,Positive
+116,44,Bangalore,Smartwatch,Electronics,Retail Store,3,Yes,delivery_was_on_TIME,Neutral
+117,22,Delhi,Smartwatch,Accessories,Myntra,1,Yes,stopped WORKING after a week,Negative
+118,27,Bangalore,Camera,Accessories,Myntra,2,No,terrible experience with this product,Negative
+119,42,Bangalore,Headphones,Electronics,Flipkart,3,No,purchased during a sale event,Neutral
+120,38,Bangalore,Tablet,Accessories,Retail Store,4,Yes,great value for money,Positive
+121,50,Hyderabad,Headphones,Electronics,Retail Store,1,Yes,poor quality and------ disappointing performance,Negative
+122,18,Mumbai,Smartwatch,Wearables,Flipkart,3,Yes,product matches the description,Neutral
+123,57,Bangalore,Tablet,Electronics,Myntra,2,No,terrible experience with this product,Negative
+124,57,Pune,Phone,Wearables,Myntra,1,Yes,not worth the money,Negative
+125,45,Pune,Tablet,Wearables,Amazon,3,No,received the product yesterday,Neutral
+126,20,Delhi,Laptop,Accessories,Myntra,4,No,works perfectly and exceeded expectations,Positive
+127,51,Bangalore,Camera,Wearables,Flipkart,1,Yes,stopped WORKING after a week,Negative
+128,57,Mumbai,Smartwatch,Wearables,Flipkart,5,Yes,excellent quality and FAST delivery,Positive
+129,34,Pune,Smartwatch,Accessories,Flipkart,2,Yes,terrible experience with this product,Negative
+130,58,Bangalore,Tablet,Accessories,Retail Store,2,No,terrible experience with this product,Negative
+131,24,Mumbai,Smartwatch,Wearables,Myntra,5,No,great value for money,Positive
+132,19,Bangalore,Headphones,Electronics,Amazon,3,No,delivery_was_on_TIME,Neutral
+133,32,Mumbai,Camera,Accessories,Flipkart,2,Yes,stopped WORKING after a week,Negative
+134,37,Bangalore,Laptop,Wearables,Myntra,3,Yes,received the product yesterday,Neutral
+135,65,Bangalore,Phone,Electronics,Flipkart,5,No,works perfectly and exceeded expectations,Positive
+136,35,Mumbai,Headphones,Accessories,Myntra,3,No,purchased during a sale event,Neutral
+137,27,Mumbai,Tablet,Wearables,Retail Store,4,No,great value for money,Positive
+138,34,Hyderabad,Laptop,Accessories,Myntra,4,No,great value for money,Positive
+139,58,Delhi,Laptop,Wearables,Flipkart,3,No,product matches the description,Neutral
+140,57,Mumbai,Tablet,Electronics,Retail Store,5,No,amazing experience and highly recommended,Positive
+141,25,Mumbai,Laptop,Electronics,Myntra,3,No,product matches the description,Neutral
+142,52,Mumbai,Smartwatch,Accessories,Myntra,4,No,excellent quality and FAST delivery,Positive
+143,44,Pune,Smartwatch,Wearables,Retail Store,3,No,using it for daily!! tasks,Neutral
+144,46,Bangalore,Phone,Accessories,Amazon,4,No,works perfectly and exceeded expectations,Positive
+145,21,Bangalore,Headphones,Electronics,Amazon,3,No,delivery_was_on_TIME,Neutral
+146,21,Delhi,Phone,Electronics,Flipkart,4,Yes,absolutely love this product!!!!!!,Positive
+147,55,Mumbai,Phone,Accessories,Flipkart,3,Yes,using it for daily!! tasks,Neutral
+148,52,Delhi,Phone,Electronics,Amazon,1,Yes,stopped WORKING after a week,Negative
+149,55,Delhi,Laptop,Electronics,Myntra,4,Yes,works perfectly and exceeded expectations,Positive
+150,65,Pune,Smartwatch,Accessories,Myntra,4,Yes,great value for money,Positive
+151,57,Pune,Tablet,Wearables,Myntra,1,No,VeRy-----frustrated with the purchase,Negative
+152,21,Bangalore,Smartwatch,Accessories,Amazon,3,No,received the product yesterday,Neutral
+153,22,Pune,Headphones,Wearables,Flipkart,3,Yes,product matches the description,Neutral
+154,42,Hyderabad,Camera,Accessories,Retail Store,5,No,works perfectly and exceeded expectations,Positive
+155,45,Bangalore,Phone,Accessories,Myntra,4,No,excellent quality and FAST delivery,Positive
+156,38,Bangalore,Headphones,Wearables,Myntra,1,No,not worth the money,Negative
+157,23,Pune,Laptop,Accessories,Amazon,4,No,great value for money,Positive
+158,55,Hyderabad,Camera,Accessories,Amazon,4,No,amazing experience and highly recommended,Positive
+159,36,Hyderabad,Headphones,Accessories,Amazon,1,Yes,not worth the money,Negative
+160,24,Delhi,Camera,Accessories,Amazon,4,No,great value for money,Positive
+161,45,Hyderabad,Camera,Wearables,Amazon,3,No,using it for daily!! tasks,Neutral
+162,62,Delhi,Headphones,Accessories,Amazon,5,Yes,absolutely love this product!!!!!!,Positive
+163,22,Mumbai,Tablet,Wearables,Amazon,5,Yes,amazing experience and highly recommended,Positive
+164,31,Bangalore,Smartwatch,Accessories,Myntra,3,Yes,purchased during a sale event,Neutral
+165,54,Hyderabad,Laptop,Electronics,Flipkart,2,Yes,terrible experience with this product,Negative
+166,61,Pune,Headphones,Accessories,Retail Store,3,No,received the product yesterday,Neutral
+167,44,Delhi,Phone,Wearables,Amazon,3,No,product matches the description,Neutral
+168,61,Hyderabad,Smartwatch,Wearables,Myntra,2,Yes,poor quality and------ disappointing performance,Negative
+169,18,Mumbai,Headphones,Electronics,Flipkart,4,No,great value for money,Positive
+170,18,Bangalore,Tablet,Accessories,Flipkart,1,Yes,terrible experience with this product,Negative
+171,50,Hyderabad,Tablet,Accessories,Amazon,1,No,VeRy-----frustrated with the purchase,Negative
+172,45,Pune,Smartwatch,Electronics,Myntra,3,No,received the product yesterday,Neutral
+173,63,Bangalore,Headphones,Electronics,Retail Store,3,Yes,product matches the description,Neutral
+174,62,Delhi,Laptop,Accessories,Amazon,2,Yes,stopped WORKING after a week,Negative
+175,51,Pune,Smartwatch,Accessories,Myntra,2,Yes,VeRy-----frustrated with the purchase,Negative
+176,50,Pune,Camera,Wearables,Flipkart,1,No,stopped WORKING after a week,Negative
+177,24,Mumbai,Headphones,Electronics,Flipkart,1,Yes,stopped WORKING after a week,Negative
+178,29,Bangalore,Smartwatch,Wearables,Retail Store,3,No,received the product yesterday,Neutral
+179,27,Bangalore,Laptop,Accessories,Retail Store,3,No,delivery_was_on_TIME,Neutral
+180,40,Hyderabad,Laptop,Accessories,Retail Store,1,No,VeRy-----frustrated with the purchase,Negative
+181,36,Pune,Tablet,Electronics,Retail Store,5,No,excellent quality and FAST delivery,Positive
+182,65,Pune,Smartwatch,Wearables,Flipkart,3,No,purchased during a sale event,Neutral
+183,50,Mumbai,Laptop,Accessories,Amazon,3,No,product matches the description,Neutral
+184,50,Mumbai,Laptop,Electronics,Retail Store,3,No,received the product yesterday,Neutral
+185,57,Mumbai,Headphones,Accessories,Myntra,3,No,purchased during a sale event,Neutral
+186,58,Delhi,Laptop,Accessories,Amazon,1,No,terrible experience with this product,Negative
+187,39,Pune,Camera,Wearables,Flipkart,1,No,terrible experience with this product,Negative
+188,56,Pune,Headphones,Wearables,Retail Store,1,No,not worth the money,Negative
+189,59,Bangalore,Camera,Accessories,Amazon,4,No,amazing experience and highly recommended,Positive
+190,39,Bangalore,Phone,Electronics,Flipkart,1,Yes,stopped WORKING after a week,Negative
+191,50,Hyderabad,Tablet,Wearables,Amazon,4,No,works perfectly and exceeded expectations,Positive
+192,56,Bangalore,Phone,Electronics,Flipkart,3,Yes,using it for daily!! tasks,Neutral
+193,20,Bangalore,Headphones,Wearables,Flipkart,3,No,product matches the description,Neutral
+194,65,Bangalore,Phone,Wearables,Flipkart,3,No,delivery_was_on_TIME,Neutral
+195,61,Hyderabad,Smartwatch,Accessories,Myntra,2,No,stopped WORKING after a week,Negative
+196,44,Mumbai,Phone,Wearables,Flipkart,3,No,purchased during a sale event,Neutral
+197,53,Pune,Tablet,Wearables,Amazon,5,No,great value for money,Positive
+198,46,Hyderabad,Phone,Accessories,Amazon,5,Yes,absolutely love this product!!!!!!,Positive
+199,44,Pune,Smartwatch,Wearables,Myntra,1,Yes,terrible experience with this product,Negative
+200,32,Pune,Headphones,Electronics,Myntra,2,Yes,poor quality and------ disappointing performance,Negative
+201,48,Mumbai,Tablet,Accessories,Retail Store,5,Yes,excellent quality and FAST delivery,Positive
+202,31,Mumbai,Camera,Wearables,Retail Store,5,Yes,excellent quality and FAST delivery,Positive
+203,25,Pune,Phone,Accessories,Retail Store,2,Yes,stopped WORKING after a week,Negative
+204,58,Hyderabad,Camera,Electronics,Flipkart,4,No,great value for money,Positive
+205,33,Hyderabad,Smartwatch,Electronics,Amazon,2,No,poor quality and------ disappointing performance,Negative
+206,42,Bangalore,Laptop,Wearables,Retail Store,4,No,amazing experience and highly recommended,Positive
+207,22,Delhi,Phone,Wearables,Amazon,2,No,poor quality and------ disappointing performance,Negative
+208,52,Delhi,Tablet,Electronics,Retail Store,5,No,excellent quality and FAST delivery,Positive
+209,26,Pune,Tablet,Accessories,Amazon,3,No,using it for daily!! tasks,Neutral
+210,20,Delhi,Headphones,Wearables,Retail Store,4,No,excellent quality and FAST delivery,Positive
+211,36,Delhi,Laptop,Wearables,Myntra,1,No,poor quality and------ disappointing performance,Negative
+212,43,Bangalore,Smartwatch,Accessories,Flipkart,5,No,works perfectly and exceeded expectations,Positive
+213,41,Hyderabad,Headphones,Electronics,Retail Store,3,Yes,product matches the description,Neutral
+214,52,Delhi,Headphones,Electronics,Amazon,1,No,VeRy-----frustrated with the purchase,Negative
+215,37,Bangalore,Camera,Wearables,Retail Store,3,Yes,delivery_was_on_TIME,Neutral
+216,40,Bangalore,Laptop,Wearables,Myntra,3,No,product matches the description,Neutral
+217,60,Bangalore,Headphones,Wearables,Flipkart,1,Yes,poor quality and------ disappointing performance,Negative
+218,20,Mumbai,Laptop,Electronics,Myntra,5,No,amazing experience and highly recommended,Positive
+219,56,Mumbai,Tablet,Accessories,Myntra,1,No,VeRy-----frustrated with the purchase,Negative
+220,51,Delhi,Smartwatch,Accessories,Myntra,1,Yes,poor quality and------ disappointing performance,Negative
+221,49,Hyderabad,Smartwatch,Wearables,Amazon,4,No,excellent quality and FAST delivery,Positive
+222,57,Delhi,Tablet,Accessories,Flipkart,1,Yes,not worth the money,Negative
+223,29,Bangalore,Laptop,Wearables,Myntra,5,No,excellent quality and FAST delivery,Positive
+224,53,Hyderabad,Headphones,Accessories,Flipkart,3,Yes,received the product yesterday,Neutral
+225,25,Mumbai,Phone,Electronics,Retail Store,1,Yes,VeRy-----frustrated with the purchase,Negative
+226,47,Hyderabad,Phone,Wearables,Amazon,2,Yes,VeRy-----frustrated with the purchase,Negative
+227,51,Bangalore,Smartwatch,Wearables,Amazon,2,Yes,not worth the money,Negative
+228,47,Hyderabad,Headphones,Electronics,Flipkart,2,Yes,poor quality and------ disappointing performance,Negative
+229,25,Hyderabad,Phone,Accessories,Flipkart,1,Yes,VeRy-----frustrated with the purchase,Negative
+230,51,Delhi,Laptop,Accessories,Flipkart,2,No,stopped WORKING after a week,Negative
+231,50,Mumbai,Camera,Wearables,Flipkart,4,Yes,works perfectly and exceeded expectations,Positive
+232,64,Hyderabad,Headphones,Wearables,Amazon,3,Yes,purchased during a sale event,Neutral
+233,59,Mumbai,Camera,Accessories,Amazon,5,No,excellent quality and FAST delivery,Positive
+234,36,Delhi,Smartwatch,Electronics,Retail Store,3,No,purchased during a sale event,Neutral
+235,28,Bangalore,Smartwatch,Accessories,Retail Store,1,Yes,poor quality and------ disappointing performance,Negative
+236,38,Delhi,Tablet,Accessories,Retail Store,1,Yes,VeRy-----frustrated with the purchase,Negative
+237,38,Mumbai,Smartwatch,Electronics,Myntra,1,No,VeRy-----frustrated with the purchase,Negative
+238,21,Delhi,Smartwatch,Wearables,Retail Store,4,Yes,absolutely love this product!!!!!!,Positive
+239,30,Mumbai,Smartwatch,Wearables,Retail Store,5,No,works perfectly and exceeded expectations,Positive
+240,23,Bangalore,Camera,Accessories,Flipkart,1,Yes,not worth the money,Negative
+241,21,Pune,Headphones,Accessories,Retail Store,3,No,delivery_was_on_TIME,Neutral
+242,24,Bangalore,Phone,Accessories,Myntra,3,No,received the product yesterday,Neutral
+243,21,Hyderabad,Camera,Electronics,Myntra,2,No,poor quality and------ disappointing performance,Negative
+244,53,Delhi,Camera,Wearables,Amazon,5,Yes,great value for money,Positive
+245,39,Hyderabad,Headphones,Electronics,Flipkart,5,No,great value for money,Positive
+246,20,Pune,Phone,Wearables,Myntra,3,No,received the product yesterday,Neutral
+247,27,Hyderabad,Camera,Electronics,Myntra,3,No,product matches the description,Neutral
+248,55,Delhi,Camera,Wearables,Retail Store,5,No,great value for money,Positive
+249,39,Pune,Smartwatch,Wearables,Myntra,2,Yes,poor quality and------ disappointing performance,Negative
+250,34,Hyderabad,Camera,Electronics,Amazon,3,No,product matches the description,Neutral
+251,27,Mumbai,Laptop,Wearables,Amazon,5,Yes,amazing experience and highly recommended,Positive
+252,44,Mumbai,Smartwatch,Wearables,Flipkart,5,No,great value for money,Positive
+253,48,Pune,Tablet,Electronics,Flipkart,3,No,purchased during a sale event,Neutral
+254,51,Bangalore,Headphones,Electronics,Retail Store,3,No,product matches the description,Neutral
+255,61,Delhi,Camera,Accessories,Flipkart,3,Yes,delivery_was_on_TIME,Neutral
+256,32,Delhi,Headphones,Wearables,Flipkart,2,No,VeRy-----frustrated with the purchase,Negative
+257,53,Delhi,Headphones,Electronics,Retail Store,2,No,not worth the money,Negative
+258,20,Delhi,Tablet,Electronics,Myntra,2,No,stopped WORKING after a week,Negative
+259,65,Bangalore,Phone,Electronics,Myntra,3,No,delivery_was_on_TIME,Neutral
+260,33,Pune,Tablet,Wearables,Flipkart,4,Yes,excellent quality and FAST delivery,Positive
+261,39,Bangalore,Laptop,Wearables,Flipkart,5,Yes,excellent quality and FAST delivery,Positive
+262,44,Bangalore,Smartwatch,Wearables,Flipkart,3,No,using it for daily!! tasks,Neutral
+263,23,Hyderabad,Phone,Wearables,Amazon,1,Yes,terrible experience with this product,Negative
+264,43,Bangalore,Phone,Wearables,Myntra,1,Yes,stopped WORKING after a week,Negative
+265,39,Delhi,Smartwatch,Wearables,Retail Store,4,Yes,works perfectly and exceeded expectations,Positive
+266,35,Mumbai,Laptop,Accessories,Flipkart,3,No,product matches the description,Neutral
+267,63,Mumbai,Laptop,Wearables,Myntra,3,No,delivery_was_on_TIME,Neutral
+268,29,Hyderabad,Tablet,Accessories,Retail Store,3,No,using it for daily!! tasks,Neutral
+269,29,Mumbai,Smartwatch,Accessories,Flipkart,4,Yes,great value for money,Positive
+270,46,Delhi,Headphones,Accessories,Amazon,1,No,not worth the money,Negative
+271,62,Mumbai,Laptop,Wearables,Amazon,3,No,delivery_was_on_TIME,Neutral
+272,61,Hyderabad,Tablet,Accessories,Amazon,2,No,stopped WORKING after a week,Negative
+273,32,Mumbai,Smartwatch,Electronics,Retail Store,1,No,VeRy-----frustrated with the purchase,Negative
+274,52,Mumbai,Phone,Wearables,Amazon,2,No,VeRy-----frustrated with the purchase,Negative
+275,22,Hyderabad,Laptop,Electronics,Flipkart,3,Yes,delivery_was_on_TIME,Neutral
+276,25,Mumbai,Tablet,Wearables,Retail Store,5,Yes,works perfectly and exceeded expectations,Positive
+277,21,Bangalore,Phone,Wearables,Retail Store,3,No,product matches the description,Neutral
+278,53,Bangalore,Tablet,Accessories,Amazon,3,No,received the product yesterday,Neutral
+279,55,Pune,Laptop,Accessories,Myntra,1,Yes,poor quality and------ disappointing performance,Negative
+280,22,Bangalore,Laptop,Accessories,Retail Store,3,Yes,received the product yesterday,Neutral
+281,42,Bangalore,Smartwatch,Accessories,Amazon,5,Yes,great value for money,Positive
+282,25,Mumbai,Camera,Accessories,Flipkart,3,Yes,delivery_was_on_TIME,Neutral
+283,47,Hyderabad,Smartwatch,Wearables,Retail Store,5,Yes,excellent quality and FAST delivery,Positive
+284,27,Delhi,Phone,Wearables,Amazon,5,Yes,great value for money,Positive
+285,57,Pune,Phone,Electronics,Amazon,3,Yes,product matches the description,Neutral
+286,46,Hyderabad,Tablet,Wearables,Amazon,3,Yes,received the product yesterday,Neutral
+287,43,Bangalore,Phone,Wearables,Flipkart,3,Yes,received the product yesterday,Neutral
+288,32,Hyderabad,Headphones,Wearables,Myntra,5,Yes,amazing experience and highly recommended,Positive
+289,44,Delhi,Headphones,Electronics,Flipkart,1,No,stopped WORKING after a week,Negative
+290,21,Delhi,Tablet,Wearables,Retail Store,3,No,product matches the description,Neutral
+291,44,Mumbai,Headphones,Accessories,Flipkart,3,No,product matches the description,Neutral
+292,63,Mumbai,Smartwatch,Electronics,Retail Store,5,No,absolutely love this product!!!!!!,Positive
+293,26,Bangalore,Phone,Accessories,Flipkart,3,No,purchased during a sale event,Neutral
+294,46,Delhi,Laptop,Wearables,Flipkart,3,Yes,received the product yesterday,Neutral
+295,22,Mumbai,Camera,Wearables,Flipkart,1,No,not worth the money,Negative
+296,18,Mumbai,Phone,Wearables,Amazon,5,No,works perfectly and exceeded expectations,Positive
+297,43,Mumbai,Camera,Accessories,Myntra,4,No,amazing experience and highly recommended,Positive
+298,37,Delhi,Headphones,Wearables,Retail Store,2,No,VeRy-----frustrated with the purchase,Negative
+299,31,Delhi,Headphones,Accessories,Amazon,5,Yes,great value for money,Positive
+300,19,Delhi,Camera,Wearables,Retail Store,3,No,using it for daily!! tasks,Neutral
+301,32,Bangalore,Camera,Electronics,Retail Store,5,No,absolutely love this product!!!!!!,Positive
+302,47,Mumbai,Tablet,Accessories,Flipkart,2,Yes,not worth the money,Negative
+303,49,Mumbai,Camera,Wearables,Amazon,3,Yes,purchased during a sale event,Neutral
+304,44,Mumbai,Tablet,Electronics,Amazon,4,Yes,excellent quality and FAST delivery,Positive
+305,41,Pune,Camera,Wearables,Retail Store,5,No,absolutely love this product!!!!!!,Positive
+306,18,Pune,Camera,Wearables,Myntra,5,No,excellent quality and FAST delivery,Positive
+307,29,Pune,Laptop,Wearables,Flipkart,5,Yes,amazing experience and highly recommended,Positive
+308,40,Delhi,Smartwatch,Electronics,Myntra,5,No,amazing experience and highly recommended,Positive
+309,62,Mumbai,Headphones,Wearables,Amazon,1,Yes,VeRy-----frustrated with the purchase,Negative
+310,42,Hyderabad,Smartwatch,Electronics,Amazon,5,Yes,great value for money,Positive
+311,59,Delhi,Camera,Electronics,Amazon,5,Yes,great value for money,Positive
+312,35,Pune,Laptop,Wearables,Myntra,5,Yes,amazing experience and highly recommended,Positive
+313,31,Hyderabad,Phone,Wearables,Retail Store,4,Yes,works perfectly and exceeded expectations,Positive
+314,54,Bangalore,Tablet,Wearables,Myntra,1,No,stopped WORKING after a week,Negative
+315,62,Pune,Camera,Wearables,Myntra,3,Yes,using it for daily!! tasks,Neutral
+316,22,Delhi,Camera,Wearables,Retail Store,4,No,great value for money,Positive
+317,49,Mumbai,Headphones,Wearables,Retail Store,5,No,works perfectly and exceeded expectations,Positive
+318,23,Hyderabad,Headphones,Electronics,Amazon,5,Yes,amazing experience and highly recommended,Positive
+319,63,Mumbai,Tablet,Accessories,Myntra,2,No,stopped WORKING after a week,Negative
+320,37,Bangalore,Headphones,Accessories,Amazon,4,Yes,excellent quality and FAST delivery,Positive
+321,46,Hyderabad,Camera,Wearables,Retail Store,5,Yes,absolutely love this product!!!!!!,Positive
+322,53,Pune,Camera,Wearables,Myntra,5,No,excellent quality and FAST delivery,Positive
+323,42,Pune,Tablet,Wearables,Flipkart,5,Yes,works perfectly and exceeded expectations,Positive
+324,28,Mumbai,Headphones,Accessories,Myntra,3,No,product matches the description,Neutral
+325,45,Delhi,Smartwatch,Accessories,Retail Store,4,Yes,excellent quality and FAST delivery,Positive
+326,64,Bangalore,Camera,Wearables,Flipkart,1,No,terrible experience with this product,Negative
+327,18,Bangalore,Headphones,Wearables,Retail Store,5,No,absolutely love this product!!!!!!,Positive
+328,59,Hyderabad,Phone,Accessories,Myntra,2,Yes,terrible experience with this product,Negative
+329,43,Delhi,Headphones,Wearables,Retail Store,1,Yes,terrible experience with this product,Negative
+330,43,Delhi,Laptop,Wearables,Flipkart,2,Yes,not worth the money,Negative
+331,19,Bangalore,Tablet,Electronics,Retail Store,3,No,purchased during a sale event,Neutral
+332,44,Bangalore,Phone,Wearables,Myntra,3,Yes,received the product yesterday,Neutral
+333,42,Pune,Smartwatch,Wearables,Retail Store,2,No,stopped WORKING after a week,Negative
+334,62,Bangalore,Camera,Electronics,Myntra,3,Yes,purchased during a sale event,Neutral
+335,28,Hyderabad,Laptop,Wearables,Retail Store,5,No,absolutely love this product!!!!!!,Positive
+336,24,Delhi,Phone,Wearables,Flipkart,1,No,poor quality and------ disappointing performance,Negative
+337,61,Hyderabad,Tablet,Wearables,Flipkart,2,No,not worth the money,Negative
+338,36,Bangalore,Laptop,Electronics,Flipkart,4,No,great value for money,Positive
+339,31,Hyderabad,Smartwatch,Accessories,Retail Store,2,Yes,terrible experience with this product,Negative
+340,22,Delhi,Laptop,Wearables,Amazon,2,Yes,not worth the money,Negative
+341,65,Mumbai,Camera,Electronics,Flipkart,1,No,poor quality and------ disappointing performance,Negative
+342,47,Mumbai,Smartwatch,Wearables,Flipkart,3,Yes,product matches the description,Neutral
+343,43,Pune,Tablet,Wearables,Flipkart,3,No,product matches the description,Neutral
+344,42,Pune,Tablet,Electronics,Flipkart,3,No,product matches the description,Neutral
+345,54,Pune,Camera,Electronics,Myntra,3,No,received the product yesterday,Neutral
+346,34,Bangalore,Camera,Wearables,Myntra,4,No,great value for money,Positive
+347,55,Pune,Headphones,Accessories,Retail Store,3,Yes,product matches the description,Neutral
+348,57,Hyderabad,Laptop,Wearables,Flipkart,3,No,delivery_was_on_TIME,Neutral
+349,25,Mumbai,Headphones,Wearables,Flipkart,5,No,absolutely love this product!!!!!!,Positive
+350,54,Bangalore,Smartwatch,Electronics,Retail Store,1,Yes,VeRy-----frustrated with the purchase,Negative
+351,49,Delhi,Phone,Electronics,Myntra,3,No,using it for daily!! tasks,Neutral
+352,40,Pune,Smartwatch,Electronics,Flipkart,3,No,received the product yesterday,Neutral
+353,59,Bangalore,Smartwatch,Wearables,Retail Store,3,No,purchased during a sale event,Neutral
+354,49,Mumbai,Laptop,Wearables,Amazon,3,Yes,product matches the description,Neutral
+355,32,Hyderabad,Headphones,Electronics,Retail Store,2,No,poor quality and------ disappointing performance,Negative
+356,25,Hyderabad,Laptop,Accessories,Myntra,3,Yes,purchased during a sale event,Neutral
+357,52,Mumbai,Smartwatch,Electronics,Flipkart,3,No,product matches the description,Neutral
+358,40,Pune,Smartwatch,Electronics,Flipkart,5,Yes,great value for money,Positive
+359,62,Delhi,Tablet,Wearables,Retail Store,3,Yes,purchased during a sale event,Neutral
+360,31,Mumbai,Laptop,Wearables,Myntra,3,No,using it for daily!! tasks,Neutral
+361,28,Delhi,Tablet,Accessories,Myntra,3,No,purchased during a sale event,Neutral
+362,26,Bangalore,Laptop,Accessories,Flipkart,3,Yes,received the product yesterday,Neutral
+363,33,Bangalore,Smartwatch,Electronics,Myntra,5,No,absolutely love this product!!!!!!,Positive
+364,58,Pune,Smartwatch,Wearables,Myntra,1,No,not worth the money,Negative
+365,55,Pune,Tablet,Electronics,Retail Store,2,No,not worth the money,Negative
+366,31,Bangalore,Phone,Accessories,Myntra,5,No,amazing experience and highly recommended,Positive
+367,54,Bangalore,Headphones,Wearables,Amazon,1,Yes,terrible experience with this product,Negative
+368,25,Mumbai,Smartwatch,Accessories,Amazon,4,No,great value for money,Positive
+369,28,Delhi,Laptop,Wearables,Myntra,5,No,absolutely love this product!!!!!!,Positive
+370,21,Bangalore,Tablet,Accessories,Flipkart,4,No,works perfectly and exceeded expectations,Positive
+371,63,Pune,Laptop,Electronics,Retail Store,3,Yes,received the product yesterday,Neutral
+372,51,Bangalore,Laptop,Electronics,Myntra,4,Yes,amazing experience and highly recommended,Positive
+373,22,Mumbai,Smartwatch,Electronics,Amazon,2,Yes,stopped WORKING after a week,Negative
+374,26,Bangalore,Phone,Wearables,Flipkart,2,Yes,terrible experience with this product,Negative
+375,18,Hyderabad,Tablet,Electronics,Retail Store,3,No,purchased during a sale event,Neutral
+376,58,Mumbai,Smartwatch,Wearables,Retail Store,3,Yes,using it for daily!! tasks,Neutral
+377,25,Hyderabad,Tablet,Accessories,Myntra,4,No,excellent quality and FAST delivery,Positive
+378,35,Pune,Phone,Wearables,Myntra,1,Yes,stopped WORKING after a week,Negative
+379,31,Hyderabad,Camera,Wearables,Flipkart,3,No,delivery_was_on_TIME,Neutral
+380,49,Bangalore,Laptop,Electronics,Retail Store,1,Yes,poor quality and------ disappointing performance,Negative
+381,41,Delhi,Phone,Accessories,Retail Store,3,No,received the product yesterday,Neutral
+382,48,Pune,Laptop,Wearables,Amazon,3,Yes,using it for daily!! tasks,Neutral
+383,21,Bangalore,Camera,Accessories,Retail Store,1,No,stopped WORKING after a week,Negative
+384,23,Hyderabad,Camera,Wearables,Flipkart,3,No,product matches the description,Neutral
+385,50,Mumbai,Phone,Wearables,Myntra,4,No,works perfectly and exceeded expectations,Positive
+386,37,Bangalore,Tablet,Electronics,Amazon,3,Yes,received the product yesterday,Neutral
+387,47,Hyderabad,Camera,Electronics,Myntra,4,Yes,great value for money,Positive
+388,62,Pune,Phone,Accessories,Myntra,4,No,excellent quality and FAST delivery,Positive
+389,65,Delhi,Tablet,Electronics,Amazon,4,No,works perfectly and exceeded expectations,Positive
+390,34,Hyderabad,Tablet,Electronics,Retail Store,1,No,terrible experience with this product,Negative
+391,21,Bangalore,Camera,Electronics,Myntra,3,Yes,delivery_was_on_TIME,Neutral
+392,32,Hyderabad,Laptop,Electronics,Amazon,1,Yes,poor quality and------ disappointing performance,Negative
+393,42,Mumbai,Phone,Electronics,Retail Store,5,Yes,great value for money,Positive
+394,64,Delhi,Headphones,Electronics,Myntra,2,Yes,stopped WORKING after a week,Negative
+395,29,Mumbai,Camera,Electronics,Retail Store,3,Yes,received the product yesterday,Neutral
+396,38,Pune,Camera,Accessories,Amazon,2,No,terrible experience with this product,Negative
+397,65,Hyderabad,Phone,Accessories,Myntra,5,No,works perfectly and exceeded expectations,Positive
+398,27,Pune,Smartwatch,Electronics,Flipkart,4,No,amazing experience and highly recommended,Positive
+399,39,Pune,Tablet,Accessories,Myntra,3,Yes,received the product yesterday,Neutral
+400,44,Bangalore,Laptop,Electronics,Myntra,4,Yes,amazing experience and highly recommended,Positive
+401,62,Delhi,Smartwatch,Wearables,Amazon,5,Yes,absolutely love this product!!!!!!,Positive
+402,58,Bangalore,Laptop,Wearables,Amazon,3,No,using it for daily!! tasks,Neutral
+403,33,Delhi,Headphones,Accessories,Retail Store,3,No,using it for daily!! tasks,Neutral
+404,32,Pune,Phone,Electronics,Amazon,2,Yes,not worth the money,Negative
+405,47,Delhi,Smartwatch,Electronics,Myntra,5,Yes,absolutely love this product!!!!!!,Positive
+406,34,Pune,Laptop,Electronics,Myntra,2,Yes,terrible experience with this product,Negative
+407,23,Mumbai,Headphones,Accessories,Amazon,4,No,works perfectly and exceeded expectations,Positive
+408,43,Bangalore,Camera,Wearables,Flipkart,1,Yes,stopped WORKING after a week,Negative
+409,25,Pune,Laptop,Electronics,Flipkart,1,Yes,poor quality and------ disappointing performance,Negative
+410,55,Hyderabad,Headphones,Electronics,Amazon,1,Yes,terrible experience with this product,Negative
+411,23,Delhi,Laptop,Electronics,Retail Store,4,Yes,great value for money,Positive
+412,64,Bangalore,Smartwatch,Electronics,Retail Store,5,No,amazing experience and highly recommended,Positive
+413,29,Delhi,Headphones,Accessories,Flipkart,4,Yes,works perfectly and exceeded expectations,Positive
+414,57,Mumbai,Tablet,Accessories,Retail Store,3,No,purchased during a sale event,Neutral
+415,21,Pune,Headphones,Accessories,Flipkart,3,No,product matches the description,Neutral
+416,58,Hyderabad,Laptop,Accessories,Myntra,4,No,amazing experience and highly recommended,Positive
+417,40,Hyderabad,Camera,Accessories,Retail Store,3,No,product matches the description,Neutral
+418,56,Mumbai,Laptop,Accessories,Amazon,5,No,excellent quality and FAST delivery,Positive
+419,55,Mumbai,Phone,Electronics,Flipkart,3,Yes,delivery_was_on_TIME,Neutral
+420,32,Hyderabad,Smartwatch,Accessories,Flipkart,1,Yes,VeRy-----frustrated with the purchase,Negative
+421,65,Delhi,Camera,Electronics,Myntra,5,Yes,amazing experience and highly recommended,Positive
+422,49,Hyderabad,Headphones,Electronics,Retail Store,3,Yes,using it for daily!! tasks,Neutral
+423,56,Mumbai,Laptop,Wearables,Retail Store,4,Yes,excellent quality and FAST delivery,Positive
+424,26,Delhi,Tablet,Electronics,Myntra,1,Yes,VeRy-----frustrated with the purchase,Negative
+425,25,Hyderabad,Headphones,Electronics,Myntra,4,No,absolutely love this product!!!!!!,Positive
+426,39,Delhi,Headphones,Electronics,Flipkart,3,No,received the product yesterday,Neutral
+427,59,Delhi,Phone,Wearables,Myntra,3,Yes,product matches the description,Neutral
+428,29,Bangalore,Headphones,Wearables,Myntra,3,Yes,purchased during a sale event,Neutral
+429,54,Pune,Phone,Wearables,Myntra,5,Yes,excellent quality and FAST delivery,Positive
+430,24,Bangalore,Phone,Accessories,Amazon,3,Yes,purchased during a sale event,Neutral
+431,58,Pune,Tablet,Wearables,Myntra,1,No,terrible experience with this product,Negative
+432,33,Pune,Headphones,Accessories,Amazon,4,Yes,works perfectly and exceeded expectations,Positive
+433,64,Bangalore,Phone,Accessories,Retail Store,5,No,great value for money,Positive
+434,24,Bangalore,Camera,Wearables,Flipkart,2,Yes,VeRy-----frustrated with the purchase,Negative
+435,36,Pune,Headphones,Accessories,Amazon,1,Yes,poor quality and------ disappointing performance,Negative
+436,28,Pune,Camera,Electronics,Myntra,2,No,stopped WORKING after a week,Negative
+437,45,Mumbai,Camera,Accessories,Flipkart,3,Yes,received the product yesterday,Neutral
+438,30,Bangalore,Tablet,Wearables,Myntra,4,No,works perfectly and exceeded expectations,Positive
+439,21,Bangalore,Camera,Wearables,Retail Store,1,Yes,stopped WORKING after a week,Negative
+440,45,Pune,Headphones,Wearables,Retail Store,4,Yes,works perfectly and exceeded expectations,Positive
+441,28,Delhi,Laptop,Accessories,Amazon,4,No,excellent quality and FAST delivery,Positive
+442,60,Delhi,Laptop,Wearables,Retail Store,2,Yes,not worth the money,Negative
+443,29,Bangalore,Laptop,Accessories,Retail Store,2,No,not worth the money,Negative
+444,54,Pune,Phone,Wearables,Amazon,2,Yes,stopped WORKING after a week,Negative
+445,52,Bangalore,Camera,Electronics,Amazon,3,No,delivery_was_on_TIME,Neutral
+446,52,Bangalore,Camera,Electronics,Retail Store,3,No,product matches the description,Neutral
+447,50,Hyderabad,Camera,Wearables,Flipkart,4,Yes,great value for money,Positive
+448,31,Mumbai,Phone,Electronics,Retail Store,1,Yes,stopped WORKING after a week,Negative
+449,30,Mumbai,Camera,Accessories,Myntra,3,Yes,product matches the description,Neutral
+450,53,Delhi,Headphones,Wearables,Retail Store,5,Yes,great value for money,Positive
+451,55,Hyderabad,Smartwatch,Electronics,Retail Store,3,Yes,purchased during a sale event,Neutral
+452,24,Hyderabad,Laptop,Accessories,Myntra,4,No,amazing experience and highly recommended,Positive
+453,54,Hyderabad,Smartwatch,Electronics,Flipkart,2,No,not worth the money,Negative
+454,20,Bangalore,Headphones,Wearables,Flipkart,2,Yes,stopped WORKING after a week,Negative
+455,35,Delhi,Laptop,Accessories,Myntra,3,No,product matches the description,Neutral
+456,32,Mumbai,Headphones,Wearables,Retail Store,1,No,not worth the money,Negative
+457,30,Bangalore,Phone,Accessories,Retail Store,1,No,not worth the money,Negative
+458,22,Delhi,Tablet,Wearables,Retail Store,4,Yes,amazing experience and highly recommended,Positive
+459,19,Mumbai,Phone,Electronics,Amazon,3,Yes,purchased during a sale event,Neutral
+460,41,Mumbai,Headphones,Accessories,Retail Store,4,No,great value for money,Positive
+461,61,Pune,Phone,Accessories,Retail Store,3,No,received the product yesterday,Neutral
+462,40,Mumbai,Headphones,Wearables,Amazon,5,No,great value for money,Positive
+463,28,Hyderabad,Phone,Electronics,Flipkart,4,Yes,great value for money,Positive
+464,61,Pune,Smartwatch,Electronics,Flipkart,1,Yes,not worth the money,Negative
+465,63,Delhi,Smartwatch,Accessories,Myntra,5,No,works perfectly and exceeded expectations,Positive
+466,37,Hyderabad,Camera,Accessories,Amazon,2,Yes,stopped WORKING after a week,Negative
+467,53,Hyderabad,Camera,Accessories,Myntra,3,Yes,delivery_was_on_TIME,Neutral
+468,35,Delhi,Headphones,Accessories,Myntra,2,Yes,poor quality and------ disappointing performance,Negative
+469,21,Hyderabad,Smartwatch,Wearables,Myntra,4,Yes,amazing experience and highly recommended,Positive
+470,59,Bangalore,Headphones,Accessories,Retail Store,3,No,received the product yesterday,Neutral
+471,39,Mumbai,Tablet,Wearables,Retail Store,1,No,poor quality and------ disappointing performance,Negative
+472,28,Hyderabad,Phone,Accessories,Amazon,3,No,delivery_was_on_TIME,Neutral
+473,61,Delhi,Tablet,Electronics,Flipkart,4,No,works perfectly and exceeded expectations,Positive
+474,39,Delhi,Headphones,Wearables,Myntra,5,No,works perfectly and exceeded expectations,Positive
+475,58,Hyderabad,Camera,Wearables,Amazon,4,No,great value for money,Positive
+476,61,Bangalore,Camera,Accessories,Retail Store,4,Yes,amazing experience and highly recommended,Positive
+477,39,Bangalore,Camera,Accessories,Flipkart,4,No,absolutely love this product!!!!!!,Positive
+478,23,Bangalore,Headphones,Wearables,Flipkart,3,No,using it for daily!! tasks,Neutral
+479,18,Bangalore,Headphones,Electronics,Flipkart,3,Yes,received the product yesterday,Neutral
+480,57,Bangalore,Tablet,Accessories,Retail Store,1,No,poor quality and------ disappointing performance,Negative
+481,20,Hyderabad,Phone,Wearables,Myntra,1,Yes,not worth the money,Negative
+482,19,Pune,Tablet,Wearables,Flipkart,1,Yes,VeRy-----frustrated with the purchase,Negative
+483,37,Mumbai,Laptop,Accessories,Myntra,3,Yes,delivery_was_on_TIME,Neutral
+484,36,Bangalore,Tablet,Wearables,Myntra,5,No,excellent quality and FAST delivery,Positive
+485,39,Bangalore,Headphones,Electronics,Flipkart,3,No,using it for daily!! tasks,Neutral
+486,64,Mumbai,Phone,Wearables,Amazon,4,Yes,absolutely love this product!!!!!!,Positive
+487,42,Delhi,Camera,Wearables,Amazon,4,Yes,works perfectly and exceeded expectations,Positive
+488,59,Pune,Laptop,Wearables,Amazon,3,No,received the product yesterday,Neutral
+489,53,Delhi,Smartwatch,Wearables,Flipkart,1,Yes,not worth the money,Negative
+490,37,Bangalore,Tablet,Electronics,Myntra,3,Yes,received the product yesterday,Neutral
+491,36,Pune,Laptop,Accessories,Flipkart,1,Yes,poor quality and------ disappointing performance,Negative
+492,40,Bangalore,Headphones,Electronics,Amazon,1,No,VeRy-----frustrated with the purchase,Negative
+493,33,Pune,Laptop,Wearables,Amazon,5,Yes,great value for money,Positive
+494,27,Pune,Camera,Electronics,Amazon,3,No,product matches the description,Neutral
+495,47,Delhi,Headphones,Accessories,Amazon,3,Yes,using it for daily!! tasks,Neutral
+496,41,Delhi,Smartwatch,Wearables,Amazon,5,Yes,excellent quality and FAST delivery,Positive
+497,60,Mumbai,Headphones,Accessories,Retail Store,4,No,excellent quality and FAST delivery,Positive
+498,41,Delhi,Phone,Electronics,Retail Store,3,No,received the product yesterday,Neutral
+499,62,Bangalore,Smartwatch,Wearables,Flipkart,2,Yes,terrible experience with this product,Negative
+500,24,Bangalore,Camera,Accessories,Retail Store,4,Yes,excellent quality and FAST delivery,Positive
